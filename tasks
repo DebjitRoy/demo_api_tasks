@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "description": "React 101 - Baby steps...",
+      "status": "Unstarted"
+    },
+    {
+      "id": 2,
+      "title": "React Routing",
+      "description": "Links, Switches, BrowserRouter, Route and redirect to. Don't Forget History, Match and Locations...",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "React Redux",
+      "description": "The store, actions, and reducers, oh my!",
+      "status": "In Progress"
+    }
+  ]
+}
